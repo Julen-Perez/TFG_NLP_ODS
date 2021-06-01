@@ -1,0 +1,82 @@
+[
+  {
+    "value": "plástico",
+    "score": 0.012476894639556377
+  },
+  {
+    "value": "marino",
+    "score": 0.010551447935921134
+  },
+  {
+    "value": "residuo",
+    "score": 0.009011090573012939
+  },
+  {
+    "value": "mar",
+    "score": 0.006546518792359827
+  },
+  {
+    "value": "playa",
+    "score": 0.0046210720887245845
+  },
+  {
+    "value": "océano",
+    "score": 0.004544054220579174
+  },
+  {
+    "value": "iniciativa",
+    "score": 0.004467036352433764
+  },
+  {
+    "value": "agua",
+    "score": 0.004313000616142945
+  },
+  {
+    "value": "conservación",
+    "score": 0.004158964879852125
+  },
+  {
+    "value": "parte",
+    "score": 0.004158964879852125
+  },
+  {
+    "value": "acción",
+    "score": 0.004081947011706716
+  },
+  {
+    "value": "biodiversidad",
+    "score": 0.0038508934072704866
+  },
+  {
+    "value": "ambiental",
+    "score": 0.003773875539125077
+  },
+  {
+    "value": "sostenible",
+    "score": 0.003773875539125077
+  },
+  {
+    "value": "poner",
+    "score": 0.0036968576709796672
+  },
+  {
+    "value": "natural",
+    "score": 0.003465804066543438
+  },
+  {
+    "value": "través",
+    "score": 0.003465804066543438
+  },
+  {
+    "value": "pesca",
+    "score": 0.0033887861983980284
+  },
+  {
+    "value": "entorno",
+    "score": 0.0033887861983980284
+  },
+  {
+    "value": "especie",
+    "score": 0.0033117683302526187
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "value": "natural",
+    "score": 0.008744038155802861
+  },
+  {
+    "value": "basuraleza",
+    "score": 0.007381330910742675
+  },
+  {
+    "value": "residuo",
+    "score": 0.007381330910742675
+  },
+  {
+    "value": "entorno",
+    "score": 0.00692709516238928
+  },
+  {
+    "value": "especie",
+    "score": 0.006245741539859187
+  },
+  {
+    "value": "naturaleza",
+    "score": 0.006132182602770838
+  },
+  {
+    "value": "biodiversidad",
+    "score": 0.006018623665682489
+  },
+  {
+    "value": "conservación",
+    "score": 0.005450828980240745
+  },
+  {
+    "value": "ave",
+    "score": 0.0053372700431523964
+  },
+  {
+    "value": "ambiental",
+    "score": 0.005223711106064047
+  },
+  {
+    "value": "dato",
+    "score": 0.005223711106064047
+  },
+  {
+    "value": "espacio",
+    "score": 0.004996593231887349
+  },
+  {
+    "value": "zona",
+    "score": 0.0047694753577106515
+  },
+  {
+    "value": "problema",
+    "score": 0.0047694753577106515
+  },
+  {
+    "value": "parte",
+    "score": 0.004655916420622303
+  },
+  {
+    "value": "campaña",
+    "score": 0.004315239609357257
+  },
+  {
+    "value": "producto",
+    "score": 0.003861003861003861
+  },
+  {
+    "value": "coordinador",
+    "score": 0.0036338859868271633
+  },
+  {
+    "value": "impacto",
+    "score": 0.0036338859868271633
+  },
+  {
+    "value": "deber",
+    "score": 0.0035203270497388144
+  }
+]

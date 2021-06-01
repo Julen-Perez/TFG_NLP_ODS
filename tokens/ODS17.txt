@@ -1,0 +1,82 @@
+[
+  {
+    "value": "parte",
+    "score": 0.005413100603768914
+  },
+  {
+    "value": "organización",
+    "score": 0.005143008265950922
+  },
+  {
+    "value": "director",
+    "score": 0.004951692859996511
+  },
+  {
+    "value": "través",
+    "score": 0.00472098898811031
+  },
+  {
+    "value": "sostenible",
+    "score": 0.004647838979951271
+  },
+  {
+    "value": "iniciativa",
+    "score": 0.0044902851162241094
+  },
+  {
+    "value": "sociedad",
+    "score": 0.004321477405087864
+  },
+  {
+    "value": "responsable",
+    "score": 0.004169550465065244
+  },
+  {
+    "value": "sector",
+    "score": 0.004057011990974415
+  },
+  {
+    "value": "mundo",
+    "score": 0.00396698121170175
+  },
+  {
+    "value": "país",
+    "score": 0.003955727364292667
+  },
+  {
+    "value": "general",
+    "score": 0.0038431888902018376
+  },
+  {
+    "value": "poner",
+    "score": 0.0038263081190882133
+  },
+  {
+    "value": "acción",
+    "score": 0.0037700388820427985
+  },
+  {
+    "value": "colaboración",
+    "score": 0.003741904263520091
+  },
+  {
+    "value": "entidad",
+    "score": 0.0036575004079519684
+  },
+  {
+    "value": "dar",
+    "score": 0.0036575004079519684
+  },
+  {
+    "value": "contar",
+    "score": 0.0035618427049747634
+  },
+  {
+    "value": "sostenibilidad",
+    "score": 0.003533708086452056
+  },
+  {
+    "value": "desarrollo",
+    "score": 0.0034605580782930165
+  }
+]

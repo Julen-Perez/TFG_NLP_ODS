@@ -1,0 +1,82 @@
+[
+  {
+    "value": "discapacidad",
+    "score": 0.014866677692632817
+  },
+  {
+    "value": "laboral",
+    "score": 0.006202105959534705
+  },
+  {
+    "value": "entidad",
+    "score": 0.005908080195527133
+  },
+  {
+    "value": "través",
+    "score": 0.005090321039381076
+  },
+  {
+    "value": "programa",
+    "score": 0.0049892496830034735
+  },
+  {
+    "value": "parte",
+    "score": 0.004878990021500634
+  },
+  {
+    "value": "inclusión",
+    "score": 0.004722788834371612
+  },
+  {
+    "value": "iniciativa",
+    "score": 0.004493081206240697
+  },
+  {
+    "value": "trabajo",
+    "score": 0.004263373578109782
+  },
+  {
+    "value": "sociedad",
+    "score": 0.004263373578109782
+  },
+  {
+    "value": "niño",
+    "score": 0.004162302221732179
+  },
+  {
+    "value": "vida",
+    "score": 0.003960159508976974
+  },
+  {
+    "value": "apoyo",
+    "score": 0.0038315232372236616
+  },
+  {
+    "value": "director",
+    "score": 0.003803958321847952
+  },
+  {
+    "value": "contar",
+    "score": 0.0037947700167227155
+  },
+  {
+    "value": "diversidad",
+    "score": 0.0036753220500946393
+  },
+  {
+    "value": "empleo",
+    "score": 0.0036569454398441663
+  },
+  {
+    "value": "poner",
+    "score": 0.0036110039142179832
+  },
+  {
+    "value": "situación",
+    "score": 0.00359262730396751
+  },
+  {
+    "value": "compromiso",
+    "score": 0.0035374974732160906
+  }
+]

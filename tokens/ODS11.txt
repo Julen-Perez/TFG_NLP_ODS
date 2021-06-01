@@ -1,0 +1,82 @@
+[
+  {
+    "value": "sostenible",
+    "score": 0.008968805419077245
+  },
+  {
+    "value": "ciudad",
+    "score": 0.006337762014129139
+  },
+  {
+    "value": "vehículo",
+    "score": 0.00463703229932843
+  },
+  {
+    "value": "eléctrico",
+    "score": 0.004244556211297497
+  },
+  {
+    "value": "parte",
+    "score": 0.004244556211297497
+  },
+  {
+    "value": "movilidad",
+    "score": 0.004171875454254731
+  },
+  {
+    "value": "través",
+    "score": 0.004128267000029072
+  },
+  {
+    "value": "cambio",
+    "score": 0.004026513940169201
+  },
+  {
+    "value": "sostenibilidad",
+    "score": 0.0037793993662237984
+  },
+  {
+    "value": "iniciativa",
+    "score": 0.0037793993662237984
+  },
+  {
+    "value": "contar",
+    "score": 0.003619501700729715
+  },
+  {
+    "value": "impacto",
+    "score": 0.003212489461290229
+  },
+  {
+    "value": "director",
+    "score": 0.0031398087042474633
+  },
+  {
+    "value": "sector",
+    "score": 0.0031107364014303575
+  },
+  {
+    "value": "servicio",
+    "score": 0.0031107364014303575
+  },
+  {
+    "value": "desarrollo",
+    "score": 0.0030962002500218044
+  },
+  {
+    "value": "responsable",
+    "score": 0.0030089833415704857
+  },
+  {
+    "value": "poner",
+    "score": 0.0029217664331191674
+  },
+  {
+    "value": "dar",
+    "score": 0.0029072302817106143
+  },
+  {
+    "value": "permitir",
+    "score": 0.002892694130302061
+  }
+]

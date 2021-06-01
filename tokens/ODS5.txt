@@ -1,0 +1,82 @@
+[
+  {
+    "value": "mujer",
+    "score": 0.030382057634632937
+  },
+  {
+    "value": "género",
+    "score": 0.01038814273916634
+  },
+  {
+    "value": "igualdad",
+    "score": 0.009823097318207501
+  },
+  {
+    "value": "hombre",
+    "score": 0.006635661610234566
+  },
+  {
+    "value": "profesional",
+    "score": 0.0051433621651381465
+  },
+  {
+    "value": "laboral",
+    "score": 0.004752176873705104
+  },
+  {
+    "value": "programa",
+    "score": 0.004679735153069356
+  },
+  {
+    "value": "parte",
+    "score": 0.004549340055925008
+  },
+  {
+    "value": "niño",
+    "score": 0.004534851711797859
+  },
+  {
+    "value": "femenino",
+    "score": 0.004491386679416409
+  },
+  {
+    "value": "país",
+    "score": 0.004360991582272062
+  },
+  {
+    "value": "oportunidad",
+    "score": 0.004303038205763463
+  },
+  {
+    "value": "violencia",
+    "score": 0.004129178076237667
+  },
+  {
+    "value": "trabajo",
+    "score": 0.004085713043856218
+  },
+  {
+    "value": "mundo",
+    "score": 0.004085713043856218
+  },
+  {
+    "value": "desarrollo",
+    "score": 0.004042248011474768
+  },
+  {
+    "value": "iniciativa",
+    "score": 0.004042248011474768
+  },
+  {
+    "value": "director",
+    "score": 0.0037959461613132233
+  },
+  {
+    "value": "trabajar",
+    "score": 0.003723504440677475
+  },
+  {
+    "value": "ámbito",
+    "score": 0.0037090160965503253
+  }
+]

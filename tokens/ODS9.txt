@@ -1,0 +1,82 @@
+[
+  {
+    "value": "innovación",
+    "score": 0.0057373046875
+  },
+  {
+    "value": "sostenible",
+    "score": 0.004974365234375
+  },
+  {
+    "value": "sector",
+    "score": 0.0046539306640625
+  },
+  {
+    "value": "tecnología",
+    "score": 0.0045013427734375
+  },
+  {
+    "value": "desarrollo",
+    "score": 0.0042877197265625
+  },
+  {
+    "value": "parte",
+    "score": 0.0041656494140625
+  },
+  {
+    "value": "través",
+    "score": 0.0041656494140625
+  },
+  {
+    "value": "impacto",
+    "score": 0.003875732421875
+  },
+  {
+    "value": "iniciativa",
+    "score": 0.0037078857421875
+  },
+  {
+    "value": "solución",
+    "score": 0.0036468505859375
+  },
+  {
+    "value": "contar",
+    "score": 0.003631591796875
+  },
+  {
+    "value": "permitir",
+    "score": 0.0035858154296875
+  },
+  {
+    "value": "edición",
+    "score": 0.0035552978515625
+  },
+  {
+    "value": "producto",
+    "score": 0.0034942626953125
+  },
+  {
+    "value": "digital",
+    "score": 0.00347900390625
+  },
+  {
+    "value": "desarrollar",
+    "score": 0.00347900390625
+  },
+  {
+    "value": "programa",
+    "score": 0.0034332275390625
+  },
+  {
+    "value": "valor",
+    "score": 0.003387451171875
+  },
+  {
+    "value": "premio",
+    "score": 0.0033111572265625
+  },
+  {
+    "value": "servicio",
+    "score": 0.003173828125
+  }
+]

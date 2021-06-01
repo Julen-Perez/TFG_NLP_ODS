@@ -1,0 +1,82 @@
+[
+  {
+    "value": "niño",
+    "score": 0.015663573678385972
+  },
+  {
+    "value": "familia",
+    "score": 0.007661530603558355
+  },
+  {
+    "value": "pobreza",
+    "score": 0.00723589001447178
+  },
+  {
+    "value": "situación",
+    "score": 0.006959223631565506
+  },
+  {
+    "value": "millón",
+    "score": 0.006852813484293862
+  },
+  {
+    "value": "país",
+    "score": 0.006107942453392356
+  },
+  {
+    "value": "través",
+    "score": 0.005256661275219205
+  },
+  {
+    "value": "iniciativa",
+    "score": 0.004873584745041287
+  },
+  {
+    "value": "entidad",
+    "score": 0.004767174597769644
+  },
+  {
+    "value": "vulnerable",
+    "score": 0.004511790244317698
+  },
+  {
+    "value": "parte",
+    "score": 0.0043202519792287395
+  },
+  {
+    "value": "programa",
+    "score": 0.003937175449050821
+  },
+  {
+    "value": "necesidad",
+    "score": 0.003915893419596493
+  },
+  {
+    "value": "ayuda",
+    "score": 0.003894611390142164
+  },
+  {
+    "value": "ayudar",
+    "score": 0.003894611390142164
+  },
+  {
+    "value": "vida",
+    "score": 0.0038520473312335063
+  },
+  {
+    "value": "crisis",
+    "score": 0.0036392270366902187
+  },
+  {
+    "value": "acción",
+    "score": 0.003596662977781561
+  },
+  {
+    "value": "económico",
+    "score": 0.0034902528305099175
+  },
+  {
+    "value": "mundo",
+    "score": 0.0033838426832382734
+  }
+]

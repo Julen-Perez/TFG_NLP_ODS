@@ -1,0 +1,82 @@
+[
+  {
+    "value": "sostenible",
+    "score": 0.009197188442982852
+  },
+  {
+    "value": "producto",
+    "score": 0.009034566250474314
+  },
+  {
+    "value": "plástico",
+    "score": 0.005321359521529371
+  },
+  {
+    "value": "sostenibilidad",
+    "score": 0.0050141842690132445
+  },
+  {
+    "value": "residuo",
+    "score": 0.004959976871510399
+  },
+  {
+    "value": "compromiso",
+    "score": 0.004490179426485734
+  },
+  {
+    "value": "consumo",
+    "score": 0.0044179028964819395
+  },
+  {
+    "value": "responsable",
+    "score": 0.004192038740220082
+  },
+  {
+    "value": "parte",
+    "score": 0.0038848634877039555
+  },
+  {
+    "value": "través",
+    "score": 0.0038758289214534812
+  },
+  {
+    "value": "reducir",
+    "score": 0.0038125869577001607
+  },
+  {
+    "value": "economía",
+    "score": 0.003767414126447789
+  },
+  {
+    "value": "envase",
+    "score": 0.003649964765191623
+  },
+  {
+    "value": "consumidor",
+    "score": 0.0035505845364364056
+  },
+  {
+    "value": "marca",
+    "score": 0.0034783080064326112
+  },
+  {
+    "value": "millón",
+    "score": 0.0034783080064326112
+  },
+  {
+    "value": "sector",
+    "score": 0.0034331351751802396
+  },
+  {
+    "value": "cliente",
+    "score": 0.0033789277776773937
+  },
+  {
+    "value": "circular",
+    "score": 0.0033156858139240736
+  },
+  {
+    "value": "permitir",
+    "score": 0.0033066512476735994
+  }
+]

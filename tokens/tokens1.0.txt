@@ -1,0 +1,87 @@
+[
+  {
+    "id": 0,
+    "name": "ODS17",
+    "description": "parte,organización,director,través,sostenible,iniciativa,sociedad,responsable,sector,mundo"
+  },
+  {
+    "id": 1,
+    "name": "ODS1",
+    "description": "niño,familia,pobreza,situación,millón,país,través,iniciativa,entidad,vulnerable"
+  },
+  {
+    "id": 2,
+    "name": "ODS3",
+    "description": "sanitario,salud,niño,través,paciente,iniciativa,ayudar,mayor,situación,poner"
+  },
+  {
+    "id": 3,
+    "name": "ODS2",
+    "description": "alimento,donación,familia,producto,través,niño,iniciativa,situación,millón,solidario"
+  },
+  {
+    "id": 4,
+    "name": "ODS4",
+    "description": "educación,niño,programa,formación,joven,educativo,través,alumno,profesional,digital"
+  },
+  {
+    "id": 5,
+    "name": "ODS5",
+    "description": "mujer,género,igualdad,hombre,profesional,laboral,programa,parte,niño,femenino"
+  },
+  {
+    "id": 6,
+    "name": "ODS7",
+    "description": "energético,energía,renovable,eléctrico,emisión,instalación,sostenible,millón,consumo,permitir"
+  },
+  {
+    "id": 7,
+    "name": "ODS8",
+    "description": "trabajo,laboral,parte,director,organización,empleado,sector,empleo,programa,profesional"
+  },
+  {
+    "id": 8,
+    "name": "ODS9",
+    "description": "innovación,sostenible,sector,tecnología,desarrollo,parte,través,impacto,iniciativa,solución"
+  },
+  {
+    "id": 9,
+    "name": "ODS10",
+    "description": "discapacidad,laboral,entidad,través,programa,parte,inclusión,iniciativa,trabajo,sociedad"
+  },
+  {
+    "id": 10,
+    "name": "ODS11",
+    "description": "sostenible,ciudad,vehículo,eléctrico,parte,movilidad,través,cambio,sostenibilidad,iniciativa"
+  },
+  {
+    "id": 11,
+    "name": "ODS12",
+    "description": "sostenible,producto,plástico,sostenibilidad,residuo,compromiso,consumo,responsable,parte,través"
+  },
+  {
+    "id": 12,
+    "name": "ODS13",
+    "description": "climático,emisión,cambio,sostenible,reducir,energía,carbono,parte,compromiso,millón"
+  },
+  {
+    "id": 13,
+    "name": "ODS16",
+    "description": "organización,parte,director,sostenible,compromiso,sociedad,valor,gestión,sostenibilidad,responsable"
+  },
+  {
+    "id": 14,
+    "name": "ODS15",
+    "description": "natural,basuraleza,residuo,entorno,especie,naturaleza,biodiversidad,conservación,ave,ambiental"
+  },
+  {
+    "id": 15,
+    "name": "ODS6",
+    "description": "agua,potable,millón,país,hídrico,recurso,sostenible,saneamiento,consumo,acceso"
+  },
+  {
+    "id": 16,
+    "name": "ODS14",
+    "description": "plástico,marino,residuo,mar,playa,océano,iniciativa,agua,conservación,parte"
+  }
+]

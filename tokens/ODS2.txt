@@ -1,0 +1,82 @@
+[
+  {
+    "value": "alimento",
+    "score": 0.014684919108496437
+  },
+  {
+    "value": "donación",
+    "score": 0.007331146057246295
+  },
+  {
+    "value": "familia",
+    "score": 0.007195384093223216
+  },
+  {
+    "value": "producto",
+    "score": 0.007172757099219369
+  },
+  {
+    "value": "través",
+    "score": 0.0069238601651770565
+  },
+  {
+    "value": "niño",
+    "score": 0.006674963231134744
+  },
+  {
+    "value": "iniciativa",
+    "score": 0.006584455255119357
+  },
+  {
+    "value": "situación",
+    "score": 0.006222423351057812
+  },
+  {
+    "value": "millón",
+    "score": 0.006109288381038579
+  },
+  {
+    "value": "solidario",
+    "score": 0.005385224572915489
+  },
+  {
+    "value": "necesidad",
+    "score": 0.005158954632877022
+  },
+  {
+    "value": "campaña",
+    "score": 0.005068446656861636
+  },
+  {
+    "value": "ayudar",
+    "score": 0.005000565674850096
+  },
+  {
+    "value": "alimentario",
+    "score": 0.0049779386808462495
+  },
+  {
+    "value": "crisis",
+    "score": 0.004955311686842403
+  },
+  {
+    "value": "parte",
+    "score": 0.004796922728815477
+  },
+  {
+    "value": "país",
+    "score": 0.004751668740807784
+  },
+  {
+    "value": "entidad",
+    "score": 0.004615906776784704
+  },
+  {
+    "value": "poner",
+    "score": 0.004570652788777011
+  },
+  {
+    "value": "colaborar",
+    "score": 0.004434890824753931
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "value": "climático",
+    "score": 0.009762691498948633
+  },
+  {
+    "value": "emisión",
+    "score": 0.009343725790896587
+  },
+  {
+    "value": "cambio",
+    "score": 0.008229118907210953
+  },
+  {
+    "value": "sostenible",
+    "score": 0.0066955463154732735
+  },
+  {
+    "value": "reducir",
+    "score": 0.004964348389748779
+  },
+  {
+    "value": "energía",
+    "score": 0.004663957882088821
+  },
+  {
+    "value": "carbono",
+    "score": 0.004529572654977787
+  },
+  {
+    "value": "parte",
+    "score": 0.004529572654977787
+  },
+  {
+    "value": "compromiso",
+    "score": 0.004237087160677302
+  },
+  {
+    "value": "millón",
+    "score": 0.00414222700036363
+  },
+  {
+    "value": "acción",
+    "score": 0.003992031746533652
+  },
+  {
+    "value": "sector",
+    "score": 0.003794406412546837
+  },
+  {
+    "value": "sostenibilidad",
+    "score": 0.00355725601176266
+  },
+  {
+    "value": "residuo",
+    "score": 0.0034861108915274068
+  },
+  {
+    "value": "través",
+    "score": 0.0034307757980110987
+  },
+  {
+    "value": "iniciativa",
+    "score": 0.0033991557445732083
+  },
+  {
+    "value": "impacto",
+    "score": 0.003296390570900065
+  },
+  {
+    "value": "país",
+    "score": 0.003233150464024284
+  },
+  {
+    "value": "energético",
+    "score": 0.0032252454506648117
+  },
+  {
+    "value": "renovable",
+    "score": 0.003162005343789031
+  }
+]

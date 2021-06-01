@@ -1,0 +1,82 @@
+[
+  {
+    "value": "agua",
+    "score": 0.05269884967063219
+  },
+  {
+    "value": "potable",
+    "score": 0.006980631206371055
+  },
+  {
+    "value": "millón",
+    "score": 0.0064398780847507615
+  },
+  {
+    "value": "país",
+    "score": 0.0062923999606725005
+  },
+  {
+    "value": "hídrico",
+    "score": 0.0055058499655884375
+  },
+  {
+    "value": "recurso",
+    "score": 0.0055058499655884375
+  },
+  {
+    "value": "sostenible",
+    "score": 0.0055058499655884375
+  },
+  {
+    "value": "saneamiento",
+    "score": 0.005358371841510176
+  },
+  {
+    "value": "consumo",
+    "score": 0.0052108937174319145
+  },
+  {
+    "value": "acceso",
+    "score": 0.00516173434273916
+  },
+  {
+    "value": "gestión",
+    "score": 0.005063415593353653
+  },
+  {
+    "value": "litro",
+    "score": 0.004915937469275391
+  },
+  {
+    "value": "vida",
+    "score": 0.004620981221118868
+  },
+  {
+    "value": "parte",
+    "score": 0.004522662471733359
+  },
+  {
+    "value": "niño",
+    "score": 0.004326024972962344
+  },
+  {
+    "value": "permitir",
+    "score": 0.004178546848884082
+  },
+  {
+    "value": "reducir",
+    "score": 0.0041293874741913286
+  },
+  {
+    "value": "mundo",
+    "score": 0.0041293874741913286
+  },
+  {
+    "value": "través",
+    "score": 0.003981909350113067
+  },
+  {
+    "value": "desarrollo",
+    "score": 0.0038835906007275585
+  }
+]

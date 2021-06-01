@@ -1,0 +1,82 @@
+[
+  {
+    "value": "trabajo",
+    "score": 0.006111907115930612
+  },
+  {
+    "value": "laboral",
+    "score": 0.00529240399917521
+  },
+  {
+    "value": "parte",
+    "score": 0.004768979427828211
+  },
+  {
+    "value": "director",
+    "score": 0.004768979427828211
+  },
+  {
+    "value": "organización",
+    "score": 0.00465794997330006
+  },
+  {
+    "value": "empleado",
+    "score": 0.004520484934360444
+  },
+  {
+    "value": "sector",
+    "score": 0.004335435843480191
+  },
+  {
+    "value": "empleo",
+    "score": 0.00431428737595102
+  },
+  {
+    "value": "programa",
+    "score": 0.0040446444149540815
+  },
+  {
+    "value": "profesional",
+    "score": 0.003938902077308223
+  },
+  {
+    "value": "través",
+    "score": 0.003912466492896759
+  },
+  {
+    "value": "millón",
+    "score": 0.003880743791603001
+  },
+  {
+    "value": "gestión",
+    "score": 0.0036322492981352337
+  },
+  {
+    "value": "trabajar",
+    "score": 0.0035952394799591836
+  },
+  {
+    "value": "poner",
+    "score": 0.003547655428018547
+  },
+  {
+    "value": "iniciativa",
+    "score": 0.003547655428018547
+  },
+  {
+    "value": "sostenible",
+    "score": 0.003484210025431032
+  },
+  {
+    "value": "valor",
+    "score": 0.0034577744410195675
+  },
+  {
+    "value": "compromiso",
+    "score": 0.0034101903890789314
+  },
+  {
+    "value": "contar",
+    "score": 0.00338904192154976
+  }
+]

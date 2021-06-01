@@ -1,0 +1,82 @@
+[
+  {
+    "value": "sanitario",
+    "score": 0.007712777753137889
+  },
+  {
+    "value": "salud",
+    "score": 0.006213686965006431
+  },
+  {
+    "value": "niño",
+    "score": 0.005273428837539362
+  },
+  {
+    "value": "través",
+    "score": 0.004665809198563002
+  },
+  {
+    "value": "paciente",
+    "score": 0.004559364882245975
+  },
+  {
+    "value": "iniciativa",
+    "score": 0.004328735530225751
+  },
+  {
+    "value": "ayudar",
+    "score": 0.004151328336364039
+  },
+  {
+    "value": "mayor",
+    "score": 0.004089235818512441
+  },
+  {
+    "value": "situación",
+    "score": 0.004080365458819355
+  },
+  {
+    "value": "poner",
+    "score": 0.00404044884020047
+  },
+  {
+    "value": "servicio",
+    "score": 0.0039916618618884995
+  },
+  {
+    "value": "realizar",
+    "score": 0.0039916618618884995
+  },
+  {
+    "value": "parte",
+    "score": 0.0038541712866456733
+  },
+  {
+    "value": "centro",
+    "score": 0.003623541934625449
+  },
+  {
+    "value": "vida",
+    "score": 0.003601366035392735
+  },
+  {
+    "value": "medida",
+    "score": 0.003565884596620393
+  },
+  {
+    "value": "día",
+    "score": 0.0035570142369273075
+  },
+  {
+    "value": "profesional",
+    "score": 0.0034416995609171954
+  },
+  {
+    "value": "enfermedad",
+    "score": 0.0034195236616844813
+  },
+  {
+    "value": "país",
+    "score": 0.0033751718632190537
+  }
+]

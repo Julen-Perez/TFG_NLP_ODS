@@ -1,0 +1,82 @@
+[
+  {
+    "value": "energético",
+    "score": 0.014476062227577165
+  },
+  {
+    "value": "energía",
+    "score": 0.014086253942379248
+  },
+  {
+    "value": "renovable",
+    "score": 0.009461710195258514
+  },
+  {
+    "value": "eléctrico",
+    "score": 0.006963393458308232
+  },
+  {
+    "value": "emisión",
+    "score": 0.006183776887912399
+  },
+  {
+    "value": "instalación",
+    "score": 0.00581168716113257
+  },
+  {
+    "value": "sostenible",
+    "score": 0.0055104716680250895
+  },
+  {
+    "value": "millón",
+    "score": 0.005351004642262305
+  },
+  {
+    "value": "consumo",
+    "score": 0.004677699422374996
+  },
+  {
+    "value": "permitir",
+    "score": 0.0045182323966122115
+  },
+  {
+    "value": "sector",
+    "score": 0.004376483929267515
+  },
+  {
+    "value": "recarga",
+    "score": 0.004022112760905773
+  },
+  {
+    "value": "inversión",
+    "score": 0.004022112760905773
+  },
+  {
+    "value": "parte",
+    "score": 0.0039689570856515114
+  },
+  {
+    "value": "reducir",
+    "score": 0.003951238527233425
+  },
+  {
+    "value": "cliente",
+    "score": 0.0038626457351429886
+  },
+  {
+    "value": "eficiencia",
+    "score": 0.0036145859172897693
+  },
+  {
+    "value": "desarrollo",
+    "score": 0.003596867358871682
+  },
+  {
+    "value": "través",
+    "score": 0.003596867358871682
+  },
+  {
+    "value": "país",
+    "score": 0.003561430242035508
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "value": "educación",
+    "score": 0.007943432344093863
+  },
+  {
+    "value": "niño",
+    "score": 0.007617881838188376
+  },
+  {
+    "value": "programa",
+    "score": 0.0073183753727553294
+  },
+  {
+    "value": "formación",
+    "score": 0.007279309312046671
+  },
+  {
+    "value": "joven",
+    "score": 0.006693318401416796
+  },
+  {
+    "value": "educativo",
+    "score": 0.006680296381180576
+  },
+  {
+    "value": "través",
+    "score": 0.0058729311265349705
+  },
+  {
+    "value": "alumno",
+    "score": 0.005729688903936557
+  },
+  {
+    "value": "profesional",
+    "score": 0.004740015365983879
+  },
+  {
+    "value": "digital",
+    "score": 0.004583751123149246
+  },
+  {
+    "value": "iniciativa",
+    "score": 0.00446655294102327
+  },
+  {
+    "value": "centro",
+    "score": 0.004336332738661076
+  },
+  {
+    "value": "financiero",
+    "score": 0.004245178597007539
+  },
+  {
+    "value": "parte",
+    "score": 0.004193090516062662
+  },
+  {
+    "value": "curso",
+    "score": 0.004114958394645345
+  },
+  {
+    "value": "estudiante",
+    "score": 0.004075892333936687
+  },
+  {
+    "value": "director",
+    "score": 0.003789407888739859
+  },
+  {
+    "value": "poner",
+    "score": 0.003594077585196567
+  },
+  {
+    "value": "desarrollar",
+    "score": 0.003489901423306812
+  },
+  {
+    "value": "edición",
+    "score": 0.0034768794030705925
+  }
+]

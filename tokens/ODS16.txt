@@ -1,0 +1,82 @@
+[
+  {
+    "value": "organización",
+    "score": 0.0057921021469391955
+  },
+  {
+    "value": "parte",
+    "score": 0.0049511747241243196
+  },
+  {
+    "value": "director",
+    "score": 0.004796718666872608
+  },
+  {
+    "value": "sostenible",
+    "score": 0.004496387444438724
+  },
+  {
+    "value": "compromiso",
+    "score": 0.004496387444438724
+  },
+  {
+    "value": "sociedad",
+    "score": 0.004419159415812868
+  },
+  {
+    "value": "valor",
+    "score": 0.00438483584753471
+  },
+  {
+    "value": "gestión",
+    "score": 0.004221798898213458
+  },
+  {
+    "value": "sostenibilidad",
+    "score": 0.0041016664092399045
+  },
+  {
+    "value": "responsable",
+    "score": 0.004084504625100825
+  },
+  {
+    "value": "sector",
+    "score": 0.004015857488544509
+  },
+  {
+    "value": "general",
+    "score": 0.00399869570440543
+  },
+  {
+    "value": "país",
+    "score": 0.0037927542947364806
+  },
+  {
+    "value": "información",
+    "score": 0.0037241071581801642
+  },
+  {
+    "value": "través",
+    "score": 0.0036211364533456896
+  },
+  {
+    "value": "entidad",
+    "score": 0.0035010039643721363
+  },
+  {
+    "value": "mejor",
+    "score": 0.0034580995040244386
+  },
+  {
+    "value": "contar",
+    "score": 0.0034066141516072013
+  },
+  {
+    "value": "mundo",
+    "score": 0.003337967015050885
+  },
+  {
+    "value": "actividad",
+    "score": 0.0033036434467727267
+  }
+]
